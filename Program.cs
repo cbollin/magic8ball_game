@@ -121,7 +121,7 @@ namespace ConsoleApplication
             Console.WriteLine("░░░░░░░░██░░░░░░░░░░░░██░░░░░░░░");
             Console.WriteLine("░░░░░░░▐██░░░░░░░░░░░░██▌░░░░░░░");
             Console.WriteLine("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░");
-            Console.WriteLine("Who Wants to Play some Video Games?!");
+            Console.WriteLine("Who wants to play video gaaaaaames?");
 
         }
         public static string GetQuestion()
