@@ -25,7 +25,7 @@ namespace ConsoleApplication
 
                 if (question.ToLower() == "quit")
                 {
-                    Console.WriteLine("Sorry I could'nt help ya..");
+                    Console.WriteLine("Sorry I couldn't help ya..");
                     break;
                 }
 
